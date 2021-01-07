@@ -75,7 +75,8 @@ body{
     z-index: 1;
 }
 
-.modal {
+.modal-content {
+    border: 0px;
     .modal-header {
         background: $background-dark;
         h4 {

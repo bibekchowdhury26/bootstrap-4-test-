@@ -53,12 +53,13 @@ body {
   bottom: 0px;
   z-index: 1; }
 
-.modal .modal-header {
-  background: #512DA8; }
-  .modal .modal-header h4 {
-    color: floralwhite; }
-  .modal .modal-header button {
-    color: floralwhite; }
-
-.modal .modal-body {
-  background: #D1C4E9; }
+.modal-content {
+  border: 0px; }
+  .modal-content .modal-header {
+    background: #512DA8; }
+    .modal-content .modal-header h4 {
+      color: floralwhite; }
+    .modal-content .modal-header button {
+      color: floralwhite; }
+  .modal-content .modal-body {
+    background: #D1C4E9; }
